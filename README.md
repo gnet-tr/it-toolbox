@@ -18,4 +18,4 @@ Karşınıza çıkan menüden gerçekleştirmek istediğiniz işlemi seçin ve t
 
 Lisans
 
-Bu proje MIT Lisansı altında lisanslanmıştır.
+Bu proje GNU Genel Kamu Lisansı (GPL) altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
